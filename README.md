@@ -1,10 +1,13 @@
-# Atividade-JPA
-Atividades, Exemplos e Testes, para aprender e usar o JPA
+<h1>Atividade-JPA</h1>
+#
 
+##   🚀Sobre:
 
-            ####ORM####
+    Atividades, Exemplos e Testes, para aprender e usar o JPA
 
-            CRIAR BANCO DE DADOS
-            CONSULTAR DADOS
-            DELETAR 
-            ATUALIZAR
+##  💻Tecnologias:
+
+    - Driver Hibernate 5.4.31.Final
+    - MySQL Connector Java 8.0.24
+    - Maven
+
